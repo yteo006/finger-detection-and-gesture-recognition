@@ -14,3 +14,7 @@ Cos(HP,Ox) < -0.7, direct = up.
 If -0.7 < Cos(HP,Ox) < 0.7, and H.y < P.y, direct = left.
 
 If -0.7 < Cos(HP,Ox) < 0.7, and H.y > P.y, direct = right.
+
+the program running on BeagleBoard 
+
+http://www.youtube.com/watch?v=vlyXyA5qgDQ
