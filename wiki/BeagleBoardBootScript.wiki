@@ -10,3 +10,5 @@ run loaduimage
 led 1 on
 run mmcboot
 }}}
+
+For more about BeagleBoard, you should Visit its Page at www.Beagleboard.org
