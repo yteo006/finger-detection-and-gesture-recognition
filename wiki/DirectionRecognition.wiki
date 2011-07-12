@@ -7,7 +7,7 @@ We will calculate the angle between 2 vectors (HP) (H is the center of hand, P i
 
 The condition for the program to detect direction is the number of fingertips detected is 1. Then the Cos(HP,Ox) is calculated. Depend on its value, we'll have the direct.
 
- Cos(HP,Ox) > 0.7, direct = down.
- Cos(HP,Ox) < -0.7, direct = up.
- If -0.7 < Cos(HP,Ox) < 0.7, and H.y < P.y, direct = left.
- If -0.7 < Cos(HP,Ox) < 0.7, and H.y > P.y, direct = right.
+Cos(HP,Ox) > 0.7, direct = down.
+Cos(HP,Ox) < -0.7, direct = up.
+If -0.7 < Cos(HP,Ox) < 0.7, and H.y < P.y, direct = left.
+If -0.7 < Cos(HP,Ox) < 0.7, and H.y > P.y, direct = right.
