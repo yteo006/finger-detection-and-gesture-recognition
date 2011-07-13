@@ -1,3 +1,4 @@
+#labels beagleboard
 #My BeagleBoard Boot script
 
 I used a BeagleBoard-Xm for my thesis. Running Angstrom Distro, and S-Video as main display output.
