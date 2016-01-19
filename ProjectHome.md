@@ -1,0 +1,1 @@
+My project is "Gesture recognition, using the Beagleboard". My approach on gesture recognition is based on finger detection. The numbers, position of fingers will decide the gesture
